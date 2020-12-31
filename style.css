@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    /*background: #c0ffcc;*/
+    background-image:url('bmo.png');
+    background-size: cover;
+}
+
+.eyes{
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.eye{
+    width: 480px;
+    height: 240px;
+    background: #c0ffcc;
+    display: inline-block;
+    margin: 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+.ball {
+    width: 80px;
+    height: 100px;
+    background: #000;
+    position: absolute;
+    border-radius: 50%;
+}
