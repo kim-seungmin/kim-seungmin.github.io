@@ -1,2 +1,2 @@
 # kim-seungmin.github.io
-[BMO](/bmoweb.html, "go")
+[BMO](https://kim-seungmin.github.io/bmoweb.html, "go")
